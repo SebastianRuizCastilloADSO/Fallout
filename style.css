@@ -127,10 +127,7 @@
     text-align: center;
     word-spacing: 20px;
     text-indent: 30px;
-    border-right: 1px solid #000;
-    border-left: 1px solid #000;
-    border-top: 1px solid #000;
-    border-bottom:1px solid #000;
+    border: 2px solid #000;
 }
 .op1{
     position: relative;
@@ -160,6 +157,7 @@
 }
 .sam{
     position: absolute;
+    background: #d3c49b;
     display: block;
     height: 80px;
     width: 70px;
@@ -168,10 +166,7 @@
     font-size: 17px;
     letter-spacing: normal;
     text-align: center;
-    border-right: 1px solid #000;
-    border-left: 1px solid #000;
-    border-top: 1px solid #000;
-    border-bottom:1px solid #000;
+    border: 2px solid #000;
 }
 .law{
     position: relative;
@@ -184,17 +179,131 @@
 }
 .op3{
     position: relative;
-    top: -2120px;
+    top: -2150px;
     width: 350px;
-    height: 170px;
+    height: 212px;
     left: 320px;
-    border-right: 1px solid #000;
-    border-left: 1px solid #000;
-    border-top: 1px solid #000;
-    border-bottom:1px solid #000;
+    border: 1.5px solid #000;
 }
 .four{
     position: relative;
-    top: 10px;
-    
+    top: 0px;
+    height: 210px;
+    width: 117px;
+}
+.textop33{
+    position: relative;
+    right: -120px;
+    top: -230px;
+}
+.five{
+    position: relative;
+    width: 245px;
+    height: 60px;
+    right: -110px;
+    top: -260px;
+    z-index: 1;
+}
+.textop34{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    top: -285px;
+    right: -135px;
+    z-index: 0;
+    font-size: 8px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.textop35{
+    position: relative;
+    background-color: #716b5b;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 33px;
+    width: 230px;
+    top: -300px;
+    right: -118px;
+    font-size: 14px;
+}
+.textop36{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 40px;
+    width: 254px;
+    top: -315px;
+    right: -95px;
+    font-size: 12px;
+}
+.textop36a{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 40px;
+    width: 254px;
+    top: -357px;
+    right: -95px;
+    font-size: 10px;
+}
+.textop37{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 40px;
+    width: 254px;
+    top: -402px;
+    right: -95px;
+    font-size: 12px;
+}
+.textop37a{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 35px;
+    width: 225px;
+    top: -443px;
+    right: -120px;
+    font-size: 10px;
+}
+.textop38{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 35px;
+    width: 225px;
+    top: -465px;
+    right: -120px;
+    font-size: 10px;
+}
+.textop38a{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 35px;
+    width: 225px;
+    top: -500px;
+    right: -120px;
+    font-size: 10px;
+}
+.textop38b{
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    height: 35px;
+    width: 225px;
+    top: -535px;
+    right: -120px;
+    font-size: 10px;
+}
+.finale{
+    position: relative;
+    top: -2145px;
+    right: -50px;
+}
+.frame{
+    position: relative;
+    top: -2385px;
+    right: -463px;
+    height: 215px;
 }
